@@ -3,9 +3,9 @@
 # █▀▀ █▀█ █▀▄ █▀▀ █▀▀ █▀█ ▄▀█ █▀▀ ▀█▀ █▀▀ █▀█ █▀
 # █▄▄ █▄█ █▄▀ ██▄ █▄▄ █▀▄ █▀█ █▀░ ░█░ ██▄ █▀▄ ▄█
 # ――――――――――――――――――――――――――――――――――――――――――――――
-# (●) Last Update: 2024-04-28 11:54:51 UTC
+# (●) Last Update: 2024-04-28 11:56:05 UTC
 # (●) Service: DaddyHD
-# (●) Total Channels: 202
+# (●) Total Channels: 210
 # (●) Join: https://t.me/realcodecrafters
 
 #EXTINF:-1 tvg-name="Abu Dhabi Sports 1 UAE" tvg-logo="" group-title="DaddyHD",Abu Dhabi Sports 1 UAE
@@ -27,6 +27,11 @@ https://webhdrus.onlinehdhls.ru/lb/premium609/index.m3u8
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://webhdrus.onlinehdhls.ru/lb/premium610/index.m3u8
+
+#EXTINF:-1 tvg-name="Astro Cricket" tvg-logo="" group-title="DaddyHD",Astro Cricket
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium370/index.m3u8
 
 #EXTINF:-1 tvg-name="beIN Sports MENA English 1" tvg-logo="" group-title="DaddyHD",beIN Sports MENA English 1
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
@@ -202,6 +207,11 @@ https://webhdrus.onlinehdhls.ru/lb/premium39/index.m3u8
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://webhdrus.onlinehdhls.ru/lb/premium758/index.m3u8
+
+#EXTINF:-1 tvg-name="Fox Cricket" tvg-logo="" group-title="DaddyHD",Fox Cricket
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium369/index.m3u8
 
 #EXTINF:-1 tvg-name="FOX Sports 502 AU" tvg-logo="" group-title="DaddyHD",FOX Sports 502 AU
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
@@ -443,6 +453,11 @@ https://webhdrus.onlinehdhls.ru/lb/premium409/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://webhdrus.onlinehdhls.ru/lb/premium410/index.m3u8
 
+#EXTINF:-1 tvg-name="SuperSport Cricket" tvg-logo="" group-title="DaddyHD",SuperSport Cricket
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium368/index.m3u8
+
 #EXTINF:-1 tvg-name="Spectrum Sportsnet LA" tvg-logo="" group-title="DaddyHD",Spectrum Sportsnet LA
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
@@ -507,6 +522,11 @@ https://webhdrus.onlinehdhls.ru/lb/premium451/index.m3u8
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://webhdrus.onlinehdhls.ru/lb/premium550/index.m3u8
+
+#EXTINF:-1 tvg-name="Willow Cricket" tvg-logo="" group-title="DaddyHD",Willow Cricket
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium346/index.m3u8
 
 #EXTINF:-1 tvg-name="Win Sports+ Columbia" tvg-logo="" group-title="DaddyHD",Win Sports+ Columbia
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
@@ -533,6 +553,11 @@ https://webhdrus.onlinehdhls.ru/lb/premium609/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://webhdrus.onlinehdhls.ru/lb/premium610/index.m3u8
 
+#EXTINF:-1 tvg-name="Astro Cricket" tvg-logo="" group-title="DaddyHD",Astro Cricket
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium370/index.m3u8
+
 #EXTINF:-1 tvg-name="beIN Sports MENA English 1" tvg-logo="" group-title="DaddyHD",beIN Sports MENA English 1
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
@@ -707,6 +732,11 @@ https://webhdrus.onlinehdhls.ru/lb/premium39/index.m3u8
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://webhdrus.onlinehdhls.ru/lb/premium758/index.m3u8
+
+#EXTINF:-1 tvg-name="Fox Cricket" tvg-logo="" group-title="DaddyHD",Fox Cricket
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium369/index.m3u8
 
 #EXTINF:-1 tvg-name="FOX Sports 502 AU" tvg-logo="" group-title="DaddyHD",FOX Sports 502 AU
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
@@ -948,6 +978,11 @@ https://webhdrus.onlinehdhls.ru/lb/premium409/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://webhdrus.onlinehdhls.ru/lb/premium410/index.m3u8
 
+#EXTINF:-1 tvg-name="SuperSport Cricket" tvg-logo="" group-title="DaddyHD",SuperSport Cricket
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium368/index.m3u8
+
 #EXTINF:-1 tvg-name="Spectrum Sportsnet LA" tvg-logo="" group-title="DaddyHD",Spectrum Sportsnet LA
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
@@ -1012,6 +1047,11 @@ https://webhdrus.onlinehdhls.ru/lb/premium451/index.m3u8
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://webhdrus.onlinehdhls.ru/lb/premium550/index.m3u8
+
+#EXTINF:-1 tvg-name="Willow Cricket" tvg-logo="" group-title="DaddyHD",Willow Cricket
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium346/index.m3u8
 
 #EXTINF:-1 tvg-name="Win Sports+ Columbia" tvg-logo="" group-title="DaddyHD",Win Sports+ Columbia
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
